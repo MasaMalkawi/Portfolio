@@ -15,17 +15,15 @@ Intelligence at Al-Balqa’ Applied University
   
 ## Projects
 ### "shooter" VR game
-
+https://github.com/MasaMalkawi/Portfolio/blob/main/VR%20shooter.zip
 ### "Jangoul" VR learning system
-
 ### "RunAway" 3D game
-
 ### "Flappy Birds" 2D Endless game
-
+https://github.com/MasaMalkawi/Portfolio/blob/main/Flappy%20Bird%202D.zip
 ### "Super Mario" 2D platform game
-
+https://github.com/MasaMalkawi/Portfolio/blob/main/2D%20Super%20Mario.zip
 ### "Fish" 2D maltiplayer game
-
+https://github.com/MasaMalkawi/Portfolio/blob/main/Fish.zip
 
 ## Conferences and Events
 - volunteer: Esports Future Summit - Gamming Summit Jordan-Aqaba, Spring 2024
