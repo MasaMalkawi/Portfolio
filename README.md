@@ -7,8 +7,8 @@
 Intelligence at Al-Balqa’ Applied University	        		
 
 ## Work Experience
-**Game Development @ 280 hours Game Development internship at MaysAlward from
-14/7/2024 to 31/8/2024**
+**Game Development @ 280 hours Game Development internship at MaysAlward
+7-9/2024 **
 - Build VR Environments for VR game using Unity Engine.
 - 2D, 3D, AR, VR game development
 
