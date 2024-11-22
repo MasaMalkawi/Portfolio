@@ -26,6 +26,4 @@ https://github.com/MasaMalkawi/Portfolio/blob/main/2D%20Super%20Mario.zip
 https://github.com/MasaMalkawi/Portfolio/blob/main/Fish.zip
 
 ## Conferences and Events
-- volunteer: Esports Future Summit - Gamming Summit Jordan-Aqaba, Spring 2024
-- volunteer: Esports Future Summit - Gamming Summit Jordan-Amman, Spring 2024
-- volunteer: Pocket Gamer Connects - Gamming Summit Jordan-Dead Sea, Fall 2022
+- volunteer: Pocket Gamer Connects - Gamming Summit Jordan-Dead Sea, Fall 2024
