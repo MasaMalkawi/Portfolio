@@ -1,7 +1,5 @@
 # Virtual Reality
 
-#### Technical Skills:Unity Engine, Blender, MATLAB, HTML, CSS, C#, C++, Java, Python, SQL
-
 ## Education
 -Bachelor’s Degree in Virtual Reality 
 -Faculty of Artificial Intelligence, Al-Balqa’ Applied University, Jordan 
