@@ -7,7 +7,7 @@
 -GPA: [3.25/4.0] 	        		
 
 ## Work Experience
-**Game Development Intern 
+Game Development Intern 
 Maysalward Company, Amman, Jordan 
 Date (June 2024 – September 2024) 
 -Gained hands-on experience in 2D and 3D game development using Unity. 
@@ -17,13 +17,14 @@ Date (June 2024 – September 2024)
 
 ## Training & Certifications 
 ### Game Development Courses 
-The Hope International Company, April 2024 – June 2024 
+#### The Hope International Company, April 2024 – June 2024 
 -Completed a comprehensive 40-hour course on advanced Unity game development. 
 -Topics included multiplayer networking, real-time lighting, complex animations, and asset 
 management. 
-### The Jordan Gaming Lab, February 2024 – March 2024 
--Completed a 30-hour course on Unity game development fundamentals. 
+#### The Jordan Gaming Lab, February 2024 – March 2024 
+Completed a 30-hour course on Unity game development fundamentals. 
 -Focused on game mechanics design, physics integration, and user interface development. 
+
 ### Online Courses 
 #### VR Development Fundamentals with Meta Quest and Unity - Udemy 
 -Learned the basics of developing VR applications using Unity and Meta Quest. 
@@ -37,7 +38,7 @@ management.
 -Focused on game logic, physics, collision detection, and implementing animations
 
 ## Technical Skills
-###Game Development 
+### Game Development 
 -Proficient in Unity Engine for 2D, 3D, VR, and AR game development. 
 -Skilled in C# scripting for game mechanics, interactions, and physics. 
 ### 3D Modeling 
